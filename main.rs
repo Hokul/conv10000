@@ -15,7 +15,7 @@ fn main() {
     	    .expect("Please type a number!");
 
     	if start_number > 2 {
-    		println!("Thank you for using this programm!");
+    		println!("Thank you for using this program!");
     		break;
 
     	} else {
